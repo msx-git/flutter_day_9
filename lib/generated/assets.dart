@@ -3,6 +3,22 @@ class Assets {
   Assets._();
 
   static const String iconsArrowDown = 'assets/icons/arrow_down.svg';
+  static const String iconsBarChart = 'assets/icons/bar_chart.svg';
   static const String iconsHamburgerMenu = 'assets/icons/hamburger_menu.svg';
+  static const String imagesAirbnb = 'assets/images/airbnb.svg';
+  static const String imagesAppStore = 'assets/images/app_store.png';
+  static const String imagesAppStoreBlack = 'assets/images/app_store_black.png';
+  static const String imagesBarCharts = 'assets/images/bar_charts.png';
+  static const String imagesChart = 'assets/images/chart.png';
+  static const String imagesFacebook = 'assets/images/facebook.svg';
+  static const String imagesGoogle = 'assets/images/google.svg';
+  static const String imagesHubspot = 'assets/images/hubspot.svg';
+  static const String imagesNotes = 'assets/images/notes.svg';
+  static const String imagesPlayStore = 'assets/images/play_store.png';
+  static const String imagesPlayStoreBlack = 'assets/images/play_store_black.png';
+  static const String imagesSlack = 'assets/images/slack.svg';
+  static const String imagesStudent = 'assets/images/student.svg';
+  static const String imagesTimeline = 'assets/images/timeline.png';
+  static const String imagesUser = 'assets/images/user.png';
 
 }
