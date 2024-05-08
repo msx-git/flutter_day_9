@@ -4,7 +4,16 @@ class Assets {
 
   static const String iconsArrowDown = 'assets/icons/arrow_down.svg';
   static const String iconsBarChart = 'assets/icons/bar_chart.svg';
+  static const String iconsChat = 'assets/icons/chat.svg';
+  static const String iconsConnect = 'assets/icons/connect.svg';
+  static const String iconsDribble = 'assets/icons/dribble.svg';
+  static const String iconsFix = 'assets/icons/fix.svg';
   static const String iconsHamburgerMenu = 'assets/icons/hamburger_menu.svg';
+  static const String iconsInstagram = 'assets/icons/instagram.svg';
+  static const String iconsNotes = 'assets/icons/notes.svg';
+  static const String iconsStudent = 'assets/icons/student.svg';
+  static const String iconsTwitter = 'assets/icons/twitter.svg';
+  static const String iconsYoutube = 'assets/icons/youtube.svg';
   static const String imagesAirbnb = 'assets/images/airbnb.svg';
   static const String imagesAppStore = 'assets/images/app_store.png';
   static const String imagesAppStoreBlack = 'assets/images/app_store_black.png';
@@ -13,11 +22,12 @@ class Assets {
   static const String imagesFacebook = 'assets/images/facebook.svg';
   static const String imagesGoogle = 'assets/images/google.svg';
   static const String imagesHubspot = 'assets/images/hubspot.svg';
-  static const String imagesNotes = 'assets/images/notes.svg';
   static const String imagesPlayStore = 'assets/images/play_store.png';
   static const String imagesPlayStoreBlack = 'assets/images/play_store_black.png';
+  static const String imagesReviews = 'assets/images/reviews.png';
   static const String imagesSlack = 'assets/images/slack.svg';
-  static const String imagesStudent = 'assets/images/student.svg';
+  static const String imagesT2 = 'assets/images/t2.png';
+  static const String imagesT3 = 'assets/images/t3.png';
   static const String imagesTimeline = 'assets/images/timeline.png';
   static const String imagesUser = 'assets/images/user.png';
 

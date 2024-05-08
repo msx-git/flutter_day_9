@@ -238,7 +238,7 @@ class MobilePage extends StatelessWidget {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  SvgPicture.asset(Assets.imagesNotes,
+                  SvgPicture.asset(Assets.iconsNotes,
                       height: 48.h, width: 48.w),
                   16.height(),
                   Text(
@@ -272,7 +272,7 @@ class MobilePage extends StatelessWidget {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  SvgPicture.asset(Assets.imagesStudent,
+                  SvgPicture.asset(Assets.iconsStudent,
                       height: 48.h, width: 48.w),
                   16.height(),
                   Text(
